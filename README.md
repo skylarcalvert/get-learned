@@ -1,4 +1,13 @@
 # get-learned
+
+## Words of encouragement
+It can be a life long journey learning to code, I still learn new things weekly while at work. You will get better by spending time with the material, trying to do neat things that you can show off to others, or that may be helpful in pre-calc homework. The more you learn now the cooler things you can do with it in the future.
+
+
+Don't be afraid to leverage eachother over break, spend time building something fun together through text/email/phone calls, you can both improve and have fun in the downtime of holiday break.
+If you need to contact me for any questions or for some help, Mr. Singer has my email.
+Merry Christmas, find ways to program over break, and we'll see you next year!
+
 ## What would you like to do?
 ### Practice Python on chromebook (Not downloaded locally)
 - [Online-Python](https://www.online-python.com/)
