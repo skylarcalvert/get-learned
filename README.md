@@ -6,6 +6,7 @@ It can be a life long journey learning to code, I still learn new things weekly 
 
 Don't be afraid to leverage eachother over break, spend time building something fun together through text/email/phone calls, you can both improve and have fun in the downtime of holiday break.
 If you need to contact me for any questions or for some help, Mr. Singer has my email.
+
 Merry Christmas, find ways to program over break, and we'll see you next year!
 
 ## What would you like to do?
